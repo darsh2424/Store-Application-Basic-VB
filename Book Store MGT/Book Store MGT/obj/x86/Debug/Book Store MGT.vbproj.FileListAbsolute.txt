@@ -1,0 +1,97 @@
+C:\Users\TYBCA11\AppData\Local\Temporary Projects\Book Store MGT\bin\Debug\Book Store MGT.exe
+C:\Users\TYBCA11\AppData\Local\Temporary Projects\Book Store MGT\bin\Debug\Book Store MGT.pdb
+C:\Users\TYBCA11\AppData\Local\Temporary Projects\Book Store MGT\bin\Debug\Book Store MGT.xml
+C:\Users\TYBCA11\AppData\Local\Temporary Projects\Book Store MGT\obj\x86\Debug\Book_Store_MGT.welcome.resources
+C:\Users\TYBCA11\AppData\Local\Temporary Projects\Book Store MGT\obj\x86\Debug\Book_Store_MGT.Resources.resources
+C:\Users\TYBCA11\AppData\Local\Temporary Projects\Book Store MGT\obj\x86\Debug\Book Store MGT.vbproj.GenerateResource.Cache
+C:\Users\TYBCA11\AppData\Local\Temporary Projects\Book Store MGT\obj\x86\Debug\Book Store MGT.exe
+C:\Users\TYBCA11\AppData\Local\Temporary Projects\Book Store MGT\obj\x86\Debug\Book Store MGT.xml
+C:\Users\TYBCA11\AppData\Local\Temporary Projects\Book Store MGT\obj\x86\Debug\Book Store MGT.pdb
+D:\tybca11\project\Book Store MGT\Book Store MGT\obj\x86\Debug\Book Store MGT.exe
+D:\tybca11\project\Book Store MGT\Book Store MGT\obj\x86\Debug\Book Store MGT.xml
+D:\tybca11\project\Book Store MGT\Book Store MGT\obj\x86\Debug\Book Store MGT.pdb
+D:\tybca11\project\Book Store MGT\Book Store MGT\bin\Debug\Book Store MGT.exe
+D:\tybca11\project\Book Store MGT\Book Store MGT\bin\Debug\Book Store MGT.pdb
+D:\tybca11\project\Book Store MGT\Book Store MGT\bin\Debug\Book Store MGT.xml
+D:\tybca11\project\Book Store MGT\Book Store MGT\obj\x86\Debug\Book_Store_MGT.welcome.resources
+D:\tybca11\project\Book Store MGT\Book Store MGT\obj\x86\Debug\Book_Store_MGT.Resources.resources
+D:\tybca11\project\Book Store MGT\Book Store MGT\obj\x86\Debug\Book Store MGT.vbproj.GenerateResource.Cache
+D:\tybca11\project\Book Store MGT\Book Store MGT\obj\x86\Debug\Book_Store_MGT.login.resources
+D:\tybca11\project\Book Store MGT\Book Store MGT\obj\x86\Debug\Book_Store_MGT.dashboard.resources
+D:\tybca11\project\Book Store MGT\Book Store MGT\bin\Debug\Book Store MGT.exe.config
+D:\project\Book Store MGT\Book Store MGT\bin\Debug\Book Store MGT.exe.config
+D:\project\Book Store MGT\Book Store MGT\obj\x86\Debug\Book Store MGT.exe
+D:\project\Book Store MGT\Book Store MGT\obj\x86\Debug\Book Store MGT.xml
+D:\project\Book Store MGT\Book Store MGT\obj\x86\Debug\Book Store MGT.pdb
+D:\project\Book Store MGT\Book Store MGT\bin\Debug\book_store_db.mdf
+D:\project\Book Store MGT\Book Store MGT\bin\Debug\book_store_db_log.ldf
+D:\project\Book Store MGT\Book Store MGT\bin\Debug\Book Store MGT.exe
+D:\project\Book Store MGT\Book Store MGT\bin\Debug\Book Store MGT.pdb
+D:\project\Book Store MGT\Book Store MGT\bin\Debug\Book Store MGT.xml
+D:\project\Book Store MGT\Book Store MGT\obj\x86\Debug\Book_Store_MGT.dashboard.resources
+D:\project\Book Store MGT\Book Store MGT\obj\x86\Debug\Book_Store_MGT.login.resources
+D:\project\Book Store MGT\Book Store MGT\obj\x86\Debug\Book_Store_MGT.welcome.resources
+D:\project\Book Store MGT\Book Store MGT\obj\x86\Debug\Book_Store_MGT.Resources.resources
+D:\project\Book Store MGT\Book Store MGT\obj\x86\Debug\Book Store MGT.vbproj.GenerateResource.Cache
+D:\tybca11\project\Book Store MGT\Book Store MGT\bin\Debug\book_store_db.mdf
+D:\tybca11\project\Book Store MGT\Book Store MGT\bin\Debug\book_store_db_log.ldf
+D:\tybca11\project\Book Store MGT\Book Store MGT\obj\x86\Debug\Book_Store_MGT.home.resources
+D:\tybca11\project\Book Store MGT\Book Store MGT\obj\x86\Debug\Book_Store_MGT.purchase.resources
+D:\tybca11\project\Book Store MGT\Book Store MGT\obj\x86\Debug\Book_Store_MGT.report.resources
+D:\tybca11\project\Book Store MGT\Book Store MGT\obj\x86\Debug\Book_Store_MGT.sales.resources
+D:\project\Book Store MGT\Book Store MGT\obj\x86\Debug\Book_Store_MGT.home.resources
+D:\project\Book Store MGT\Book Store MGT\obj\x86\Debug\Book_Store_MGT.purchase.resources
+D:\project\Book Store MGT\Book Store MGT\obj\x86\Debug\Book_Store_MGT.report.resources
+D:\project\Book Store MGT\Book Store MGT\obj\x86\Debug\Book_Store_MGT.sales.resources
+D:\tybca11\project\Book Store MGT\Book Store MGT\obj\x86\Debug\Book Store MGT.vbprojResolveAssemblyReference.cache
+D:\tybca11\project\Book Store MGT\Book Store MGT\bin\Debug\pdfsharp.charting.dll
+D:\tybca11\project\Book Store MGT\Book Store MGT\bin\Debug\PdfSharp.dll
+D:\tybca11\trash\4sep\project\Book Store MGT\Book Store MGT\bin\Debug\Book Store MGT.exe.config
+D:\tybca11\trash\4sep\project\Book Store MGT\Book Store MGT\obj\x86\Debug\Book Store MGT.exe
+D:\tybca11\trash\4sep\project\Book Store MGT\Book Store MGT\obj\x86\Debug\Book Store MGT.xml
+D:\tybca11\trash\4sep\project\Book Store MGT\Book Store MGT\obj\x86\Debug\Book Store MGT.pdb
+D:\tybca11\trash\4sep\project\Book Store MGT\Book Store MGT\bin\Debug\book_store_db.mdf
+D:\tybca11\trash\4sep\project\Book Store MGT\Book Store MGT\bin\Debug\book_store_db_log.ldf
+D:\tybca11\trash\4sep\project\Book Store MGT\Book Store MGT\bin\Debug\Book Store MGT.exe
+D:\tybca11\trash\4sep\project\Book Store MGT\Book Store MGT\bin\Debug\Book Store MGT.pdb
+D:\tybca11\trash\4sep\project\Book Store MGT\Book Store MGT\bin\Debug\Book Store MGT.xml
+D:\tybca11\trash\4sep\project\Book Store MGT\Book Store MGT\bin\Debug\pdfsharp.charting.dll
+D:\tybca11\trash\4sep\project\Book Store MGT\Book Store MGT\bin\Debug\PdfSharp.dll
+D:\tybca11\trash\4sep\project\Book Store MGT\Book Store MGT\obj\x86\Debug\Book Store MGT.vbprojResolveAssemblyReference.cache
+D:\tybca11\trash\4sep\project\Book Store MGT\Book Store MGT\obj\x86\Debug\Book_Store_MGT.dashboard.resources
+D:\tybca11\trash\4sep\project\Book Store MGT\Book Store MGT\obj\x86\Debug\Book_Store_MGT.home.resources
+D:\tybca11\trash\4sep\project\Book Store MGT\Book Store MGT\obj\x86\Debug\Book_Store_MGT.login.resources
+D:\tybca11\trash\4sep\project\Book Store MGT\Book Store MGT\obj\x86\Debug\Book_Store_MGT.purchase.resources
+D:\tybca11\trash\4sep\project\Book Store MGT\Book Store MGT\obj\x86\Debug\Book_Store_MGT.report.resources
+D:\tybca11\trash\4sep\project\Book Store MGT\Book Store MGT\obj\x86\Debug\Book_Store_MGT.sales.resources
+D:\tybca11\trash\4sep\project\Book Store MGT\Book Store MGT\obj\x86\Debug\Book_Store_MGT.welcome.resources
+D:\tybca11\trash\4sep\project\Book Store MGT\Book Store MGT\obj\x86\Debug\Book_Store_MGT.Resources.resources
+D:\tybca11\trash\4sep\project\Book Store MGT\Book Store MGT\obj\x86\Debug\Book Store MGT.vbproj.GenerateResource.Cache
+D:\tybca11\project\Book Store MGT\Book Store MGT\obj\x86\Debug\Book_Store_MGT.add_book.resources
+D:\tybca11\project\Book Store MGT\Book Store MGT\obj\x86\Debug\Book_Store_MGT.add_vendor.resources
+D:\tybca11\project\Book Store MGT\Book Store MGT\obj\x86\Debug\Book_Store_MGT.add_customer.resources
+Z:\tybca11\project\project\Book Store MGT\Book Store MGT\bin\Debug\Book Store MGT.exe.config
+Z:\tybca11\project\project\Book Store MGT\Book Store MGT\obj\x86\Debug\Book Store MGT.exe
+Z:\tybca11\project\project\Book Store MGT\Book Store MGT\obj\x86\Debug\Book Store MGT.xml
+Z:\tybca11\project\project\Book Store MGT\Book Store MGT\obj\x86\Debug\Book Store MGT.pdb
+D:\tybca11\newpro\project\Book Store MGT\Book Store MGT\bin\Debug\Book Store MGT.exe.config
+D:\tybca11\newpro\project\Book Store MGT\Book Store MGT\obj\x86\Debug\Book Store MGT.exe
+D:\tybca11\newpro\project\Book Store MGT\Book Store MGT\obj\x86\Debug\Book Store MGT.xml
+D:\tybca11\newpro\project\Book Store MGT\Book Store MGT\obj\x86\Debug\Book Store MGT.pdb
+D:\tybca11\project\Book Store MGT\Book Store MGT\obj\x86\Debug\Book_Store_MGT.add_cat.resources
+D:\tybca11\3oct\project\Book Store MGT\Book Store MGT\bin\Debug\Book Store MGT.exe.config
+D:\tybca11\3oct\project\Book Store MGT\Book Store MGT\obj\x86\Debug\Book Store MGT.exe
+D:\tybca11\3oct\project\Book Store MGT\Book Store MGT\obj\x86\Debug\Book Store MGT.xml
+D:\tybca11\3oct\project\Book Store MGT\Book Store MGT\obj\x86\Debug\Book Store MGT.pdb
+D:\tybca11\6oct\project\Book Store MGT\Book Store MGT\bin\Debug\Book Store MGT.exe.config
+D:\tybca11\6oct\project\Book Store MGT\Book Store MGT\obj\x86\Debug\Book Store MGT.exe
+D:\tybca11\6oct\project\Book Store MGT\Book Store MGT\obj\x86\Debug\Book Store MGT.xml
+D:\tybca11\6oct\project\Book Store MGT\Book Store MGT\obj\x86\Debug\Book Store MGT.pdb
+D:\tybca11\backup\project\Book Store MGT\Book Store MGT\bin\Debug\Book Store MGT.exe.config
+D:\tybca11\backup\project\Book Store MGT\Book Store MGT\obj\x86\Debug\Book Store MGT.exe
+D:\tybca11\backup\project\Book Store MGT\Book Store MGT\obj\x86\Debug\Book Store MGT.xml
+D:\tybca11\backup\project\Book Store MGT\Book Store MGT\obj\x86\Debug\Book Store MGT.pdb
+C:\Users\DARSH\OneDrive\Desktop\PROJECT\SEM 5\tybca11\project\Book Store MGT\Book Store MGT\bin\Debug\Book Store MGT.exe.config
+C:\Users\DARSH\OneDrive\Desktop\PROJECT\SEM 5\tybca11\project\Book Store MGT\Book Store MGT\obj\x86\Debug\Book Store MGT.exe
+C:\Users\DARSH\OneDrive\Desktop\PROJECT\SEM 5\tybca11\project\Book Store MGT\Book Store MGT\obj\x86\Debug\Book Store MGT.xml
+C:\Users\DARSH\OneDrive\Desktop\PROJECT\SEM 5\tybca11\project\Book Store MGT\Book Store MGT\obj\x86\Debug\Book Store MGT.pdb
